@@ -1,0 +1,5 @@
+﻿HelloWorld.obj : error LNK2005: _main이(가) Array.obj에 이미 정의되어 있습니다.
+loop.obj : error LNK2005: _main이(가) Array.obj에 이미 정의되어 있습니다.
+pointer.obj : error LNK2005: _main이(가) Array.obj에 이미 정의되어 있습니다.
+printfscanf.obj : error LNK2005: _main이(가) Array.obj에 이미 정의되어 있습니다.
+C:\Users\user\Documents\Repository\C_training\Debug\C_training.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
